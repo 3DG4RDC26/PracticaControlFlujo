@@ -1,0 +1,10 @@
+C:\Users\edgar\Desktop\Evaluacion\Evaluacion\Evaluacion2\obj\Debug\Evaluacion2.csproj.AssemblyReference.cache
+C:\Users\edgar\Desktop\Evaluacion\Evaluacion\Evaluacion2\obj\Debug\Evaluacion2.Form1.resources
+C:\Users\edgar\Desktop\Evaluacion\Evaluacion\Evaluacion2\obj\Debug\Evaluacion2.Properties.Resources.resources
+C:\Users\edgar\Desktop\Evaluacion\Evaluacion\Evaluacion2\obj\Debug\Evaluacion2.csproj.GenerateResource.cache
+C:\Users\edgar\Desktop\Evaluacion\Evaluacion\Evaluacion2\obj\Debug\Evaluacion2.csproj.CoreCompileInputs.cache
+C:\Users\edgar\Desktop\Evaluacion\Evaluacion\Evaluacion2\bin\Debug\Evaluacion2.exe.config
+C:\Users\edgar\Desktop\Evaluacion\Evaluacion\Evaluacion2\bin\Debug\Evaluacion2.exe
+C:\Users\edgar\Desktop\Evaluacion\Evaluacion\Evaluacion2\bin\Debug\Evaluacion2.pdb
+C:\Users\edgar\Desktop\Evaluacion\Evaluacion\Evaluacion2\obj\Debug\Evaluacion2.exe
+C:\Users\edgar\Desktop\Evaluacion\Evaluacion\Evaluacion2\obj\Debug\Evaluacion2.pdb
